@@ -34,10 +34,11 @@ To run the notebook, you will need to have Python installed along with the follo
 - Matplotlib
 - NetworkX
 - Pandas
+- pywt
 
 You can install these libraries using pip:
 ```bash
-pip install numpy matplotlib networkx pandas
+pip install numpy matplotlib networkx pandas pywt
 ```
 
 Once the dependencies are installed, you can open the notebook using Jupyter Notebook or JupyterLab and run the cells to reproduce the simulations and analyses.
